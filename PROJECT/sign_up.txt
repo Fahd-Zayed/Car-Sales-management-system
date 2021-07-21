@@ -1,0 +1,8 @@
+youssef,12345,jo@gmail.com
+,amr,12345,amr@gmail.com
+,jo,123,jo@123
+,nermeen,123,nermeen12@gmail.com
+,nada,12345,nada11@gmail
+,fahd,1234,fahdzayed
+,nada,123456,nadaaaa
+,trial,ddddddddddd,trial@gmail
