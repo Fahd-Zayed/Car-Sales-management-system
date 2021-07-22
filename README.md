@@ -1,5 +1,8 @@
 # Car-Sales-management-system
-![cars requirements - Copy](https://user-images.githubusercontent.com/87047749/126575090-32903a55-4be5-4697-840a-ca20d285ac10.PNG)
+## Description
+![cars requirements - Copy](https://user-images.githubusercontent.com/87047749/126575417-8f1c0de8-b6eb-431e-b231-26772ba1be60.PNG)
+
+## Screenshots
 ![1](https://user-images.githubusercontent.com/87047749/126574707-b1c2114e-ccb7-4c25-9b09-d6a0f3506816.PNG)
 ![2 )signup](https://user-images.githubusercontent.com/87047749/126574854-cd5114a5-8478-4d2a-ac58-32c76880da26.PNG)
 ![4login succsfly](https://user-images.githubusercontent.com/87047749/126574863-8cb5736b-d7d8-4f12-8e93-91b003adcd08.PNG)
